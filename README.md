@@ -27,13 +27,14 @@ Create, compile and execute the following program inside your assignment 1 packa
 >       }	      
 >   }
 #### Lecture 2 - (Input/Output, Operations on Primitive Types)
-5. [Printing]
-6. [Quote]
-7. Number of seconds
-8. BMI
-9. Time
-10. Sum of Three
-If Time Permits
+5. [Printing]()
+6. [Quote]()
+7. [Number of seconds]()
+8. [BMI]()
+9. [Time]()
+10. [Sum of Three]()
+
+*If Time Permits*
 
 Exercise 11 is marked as VG task ==> only mandatory for those of you that aspire for a higher mark (A or B).
 
@@ -43,7 +44,8 @@ Exercise 11 is marked as VG task ==> only mandatory for those of you that aspire
 13. Short Name
 14. Random Number
 15. Square Root 
-If Time Permits
+
+*If Time Permits*
 
 Exercise 16 is marked as VG task ==> only mandatory for those of you that aspire for a higher mark (A or B).
 

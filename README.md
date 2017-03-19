@@ -42,6 +42,7 @@ Write a program Quote.java which reads a line of text (using class Scanner ) and
 7. [Number of seconds](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Seconds.java)
 
 Write a program Seconds.java which reads three integers (hours, minutes, seconds) and then computes the corresponding time measured in seconds. For example, 1 hour, 28 minutes and 42 seconds is equal to 5322 seconds. An example of an execution:
+
 >     Hours: 1
 >
 >     Minutes: 28
@@ -89,7 +90,7 @@ Write a program Change.java that computes the change a customer should receive w
 > Price: 372.38
 >
 > Payment: 1000
-> 
+ 
 > 
 > Change: 628 kronor
 >
@@ -158,7 +159,7 @@ Write a program WindChill.java that asks the user for a temperature (°C) and th
 >    Temperature:  -7.8
 >
 >    Wind speed:  8.4
-> 
+ 
 >     
 >    Wind Chill Temperature: -24.5
 	      

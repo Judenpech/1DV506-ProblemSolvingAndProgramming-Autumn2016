@@ -37,12 +37,44 @@ Write a program Print.java, which will print the phrase *Knowledge is power!*
 
 Write a program Quote.java which reads a line of text (using class Scanner ) and then prints the same line as a quote (that is inside " "). An example of an execution:
 >    Write a line of text:  I wish I was a punk rocker with flowers in my hair.
-
+>
 >    Quote: "I wish I was a punk rocker with flowers in my hair."
 7. [Number of seconds](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Seconds.java)
+
+Write a program Seconds.java which reads three integers (hours, minutes, seconds) and then computes the corresponding time measured in seconds. For example, 1 hour, 28 minutes and 42 seconds is equal to 5322 seconds. An example of an execution:
+>     Hours: 1
+>
+>     Minutes: 28
+>
+>     Seconds: 42
+>
+>
+>     Total time measured in seconds: 5322
 8. [BMI](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/BMI.java)
+
+Write a program BMI.java which computes the BMI (Body Mass Index) for a person. The program will read length and weight from the keyboard and then present the result as output. The BMI is computed as weight/(length)^2, where the length is given in meters and the weight in kilograms. An example of an execution:
+>    Give your length in meters: 1,83
+>
+>    Give your weight in kilograms: 83
+>
+>    Your BMI is: 25
+
+		
+Note: the BMI is always an integer.
 9. [Time](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Time.java)
+
+Write a program Time.java, which reads a number of seconds (an integer) and then prints the same amount of time given in hours, minutes and seconds. An example of an execution:
+>    Give a number of seconds: 9999
+>
+>    This corresponds to: 2 hours, 46 minutes and 39 seconds.
+
+Hint: Use integer division and the modulus (remainder) operator.
 10. [Sum of Three](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/SumOfThree.java)
+
+Write a program SumOfThree.java which asks the user to provide a three digit number. The program should then compute the sum of the three digits. For example:
+>    Provide a three digit number: 483
+>
+>    Sum of digits: 15
 
 *If Time Permits*
 

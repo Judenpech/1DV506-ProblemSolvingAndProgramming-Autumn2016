@@ -27,7 +27,7 @@ Create, compile and execute the following program inside your assignment 1 packa
 >       }	      
 >   }
 #### Lecture 2 - (Input/Output, Operations on Primitive Types)
-5. [Printing]()
+5. [Printing](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/commit/9f20a4482b83eb0c679e83886432b5808b3e1967)
 6. [Quote]()
 7. [Number of seconds]()
 8. [BMI]()

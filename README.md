@@ -26,7 +26,28 @@ Create, compile and execute the following program inside your assignment 1 packa
 >          System.out.println("Hello World!"); // Print
 >       }	      
 >   }
-	      
+#### Lecture 2 - (Input/Output, Operations on Primitive Types)
+5. Printing
+6. Quote
+7. Number of seconds
+8. BMI
+9. Time
+10. Sum of Three
+If Time Permits
+
+Exercise 11 is marked as VG task ==> only mandatory for those of you that aspire for a higher mark (A or B).
+11. Change (VG-task)
+#### Lecture 3 - Using Library Classes
+12. Fahrenheit to Celsius
+13. Short Name
+14. Random Number
+15. Square Root 
+If Time Permits
+
+Exercise 16 is marked as VG task ==> only mandatory for those of you that aspire for a higher mark (A or B).
+16. Wind Chill (VG-task)
+### Submission
+Only exercises 5-16 should be handed in. (Notice that the VG exercises 11 and 16 are not mandatory.) We are only interested in your .java files. Hence, zip the directory named YourLnuUserName_assign1 (inside directory named src) and submit it using the Moodle submission system.
 ## Assignment 2
 ## Assignment 3: Methods and Classes
 ## Assignment 4: Exceptions, IO, and Interfaces

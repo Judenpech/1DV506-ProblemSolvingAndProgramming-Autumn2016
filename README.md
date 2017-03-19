@@ -28,11 +28,13 @@ Create, compile and execute the following program inside your assignment 1 packa
 >   }
 #### Lecture 2 - (Input/Output, Operations on Primitive Types)
 5. [Printing](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Print.java)
+
 Write a program Print.java, which will print the phrase *Knowledge is power!*
 - on one line,
 - on three lines, one word on each line,
 - inside a rectangle made up by the characters = and |.
 6. [Quote](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Quote.java)
+
 Write a program Quote.java which reads a line of text (using class Scanner ) and then prints the same line as a quote (that is inside " "). An example of an execution:
 >    Write a line of text:  I wish I was a punk rocker with flowers in my hair.
 >    Quote: "I wish I was a punk rocker with flowers in my hair."

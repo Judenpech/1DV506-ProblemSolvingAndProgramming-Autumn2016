@@ -89,8 +89,8 @@ Write a program Change.java that computes the change a customer should receive w
 > Price: 372.38
 >
 > Payment: 1000
->
->
+> 
+> 
 > Change: 628 kronor
 >
 > 1000kr bills: 0
@@ -158,8 +158,8 @@ Write a program WindChill.java that asks the user for a temperature (°C) and th
 >    Temperature:  -7.8
 >
 >    Wind speed:  8.4
->
->    
+> 
+>     
 >    Wind Chill Temperature: -24.5
 	      
 	      

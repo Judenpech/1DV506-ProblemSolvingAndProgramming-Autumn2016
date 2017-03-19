@@ -90,8 +90,7 @@ Write a program Change.java that computes the change a customer should receive w
 > Price: 372.38
 >
 > Payment: 1000
-
-
+> 
 > 
 > Change: 628 kronor
 >
@@ -155,13 +154,12 @@ Hint: Use the class java.lang.Math for the computations.
 
 16. [Wind Chill (VG-task)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/WindChill.java)
 
-Write a program WindChill.java that asks the user for a temperature (°C) and the wind speed (measured in m/s) and then computes the so-called wind chill temperature using Siple's formula. For example:
+Write a program WindChill.java that asks the user for a temperature (°C) and the wind speed (measured in m/s) and then computes the so-called wind chill temperature using [Siple's formula](http://www.lenntech.com/calculators/wind/wind-chill.htm). For example:
 
 >    Temperature:  -7.8
 >
 >    Wind speed:  8.4
-
-
+> 
 >     
 >    Wind Chill Temperature: -24.5
 	      

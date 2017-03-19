@@ -74,6 +74,7 @@ Hint: Use integer division and the modulus (remainder) operator.
 10. [Sum of Three](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/SumOfThree.java)
 
 Write a program SumOfThree.java which asks the user to provide a three digit number. The program should then compute the sum of the three digits. For example:
+
 >    Provide a three digit number: 483
 >
 >    Sum of digits: 15
@@ -86,44 +87,64 @@ Write a program SumOfThree.java which asks the user to provide a three digit num
 
 Write a program Change.java that computes the change a customer should receive when he has paid a certain sum. The program should exactly describe the minimum number of Swedish bills and coins that should be returned rounded off to nearest krona (kr). Example:
 > Price: 372.38
+>
 > Payment: 1000
 >
+>
 > Change: 628 kronor
+>
 > 1000kr bills: 0
+>
 >  500kr bills: 1
+>
 >  100kr bills: 1
+>
 >   50kr bills: 0
+>
 >   20kr bills: 1
+>
 >   10kr coins: 0
+>
 >    5kr coins: 1
+>
 >    1kr coins: 3
 
 #### Lecture 3 - Using Library Classes
 12. [Fahrenheit to Celsius](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Convert.java)
 
 Write a program Convert.java, which reads a temperature in Fahrenheit and then converts it to Celsius using the formula:
+
 >    C = (F-32)*5/9
+
 The result should be presented with a single decimal correctly rounded off.
 
 13. [Short Name](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/ShortName.java)
 
 Write a program ShortName.java, reading a first name and a last name (given name and family name) as two Strings. The output should consist of the first letter of the first name followed by a dot and a space, followed by the first four letters of the last name. An example of an execution:
+
 >    First name: Anakin
+>
 >    Last name: Skywalker
+>
 >    Short name: A. Skyw
+
 Hint: Use methods of the String class.
 What will happen if the last name consists of less than four letters?
 
 14. [Random Number](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TelephoneNumber.java)
 
 Write a program TelephoneNumber.java, generating and printing a random telephone number of the form 0XXX-ZYYYYY. The area code consists of a zero followed by three digits (X). The local number can not start with a zero (Z), all other digits (Y) are random.
+
 Hint: Use the class java.util.Random.
 
 15. [Square Root](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Distance.java)
 
 Write a program Distance.java which reads two coordinates in the form (x,y) and then computes the distance between the points, using the formula
+
 > distance = Sqrt( (x1-x2)^2 + (y1-y2)^2 )
+
 Sqrt() means "the square root of" and ^ means "raised to". The answer should be presented with three decimal digits.
+
 Hint: Use the class java.lang.Math for the computations.
 
 *If Time Permits*
@@ -133,8 +154,11 @@ Hint: Use the class java.lang.Math for the computations.
 16. [Wind Chill (VG-task)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/WindChill.java)
 
 Write a program WindChill.java that asks the user for a temperature (°C) and the wind speed (measured in m/s) and then computes the so-called wind chill temperature using Siple's formula. For example:
+
 >    Temperature:  -7.8
+>
 >    Wind speed:  8.4
+>
 >    
 >    Wind Chill Temperature: -24.5
 	      

@@ -37,6 +37,7 @@ Write a program Print.java, which will print the phrase *Knowledge is power!*
 
 Write a program Quote.java which reads a line of text (using class Scanner ) and then prints the same line as a quote (that is inside " "). An example of an execution:
 >    Write a line of text:  I wish I was a punk rocker with flowers in my hair.
+
 >    Quote: "I wish I was a punk rocker with flowers in my hair."
 7. [Number of seconds](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Seconds.java)
 8. [BMI](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/BMI.java)

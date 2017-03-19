@@ -89,7 +89,7 @@ Write a program SumOfThree.java which asks the user to provide a three digit num
 Write a program Change.java that computes the change a customer should receive when he has paid a certain sum. The program should exactly describe the minimum number of Swedish bills and coins that should be returned rounded off to nearest krona (kr). Example:
 > Price: 372.38
 >
-> Payment: 1000
+> Payment: 1000<br>
 > 
 > 
 > Change: 628 kronor
@@ -158,7 +158,7 @@ Write a program WindChill.java that asks the user for a temperature (°C) and th
 
 >    Temperature:  -7.8
 >
->    Wind speed:  8.4
+>    Wind speed:  8.4<br>
 > 
 >     
 >    Wind Chill Temperature: -24.5

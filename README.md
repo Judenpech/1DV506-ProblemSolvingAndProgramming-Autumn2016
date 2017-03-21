@@ -179,7 +179,7 @@ VG Exercises
 Exercises 7-9 and 13 are VG tasks that is only needed to do if you aspire for a higher grade (A or B).
 ### Lecture 4 - Control Statements
 The ability to combine different control statements to solve a problem is very important. Therefore, there is quite a large number of (short) tasks on this topic.
-1. [Exercise 1]()
+1. [Exercise 1](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/CountA.java)
 
 Write a program CountA.java that reads a string from the keyboard and then prints how many 'a' and 'A' the string contains. An example of what an execution might look like:
 >Provide a line of text: All cars got the highest safty grading A.
@@ -188,7 +188,7 @@ Write a program CountA.java that reads a string from the keyboard and then print
 >
 >Number of 'A': 2
 
-2. [Exercise 2]() 
+2. [Exercise 2](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Backwards.java) 
 
 Write a program Backwards.java that reads an arbitrary string from the keyboard and then prints it backwards. An example of an execution:
 >Provide a line of text: Anakin Skywalker
@@ -197,14 +197,14 @@ Write a program Backwards.java that reads an arbitrary string from the keyboard 
 
 Notice: You are supposed to use control statements to iterate over the input text backwards.
 
-3. [Exercise 3]() 
+3. [Exercise 3](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/LargestK.java) 
 
 Write a program LargestK.java, which for any given positive integer N (read from the keyboard) computes the largest integer K such that 0+2+4+6+8+...+K < N. An example of an execution:
 > Give a positive integer: 25
 > 
 > The largest K such that 0+2+4+6+...+K < 25 => K=8
 
-4. [Exercise 4]()
+4. [Exercise 4](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/HighLow.java)
 
 Write a program HighLow.java, implementing the game High and Low. The computer chooses a random integer between 1 and 100 and lets the user guess the value. After each guess, the user is given a clue of the type “higher” or “lower”. An example of an execution:
 > Guess 1: 67
@@ -222,7 +222,7 @@ Write a program HighLow.java, implementing the game High and Low. The computer c
 
 After 10 guesses, the program ends with a proper comment.
 
-5. [Exercise 5]()
+5. [Exercise 5](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Triangle.java)
 
 Write a program Triangle.java reading a positive odd integer N from the keyboard, and then prints two triangles. First a right-angled triangle, then an isosceles triangle. An example of an execution:
 
@@ -245,7 +245,7 @@ Write a program Triangle.java reading a positive odd integer N from the keyboard
 
 The program should end with an error message if the input N is not an odd postive integer.
 
-6. [Exercise 6]()
+6. [Exercise 6](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/SecondLargest.java)
 
 Write a program SecondLargest that reads 10 integers from the keyboard and then prints the second largest one. An example of an execution:
 
@@ -259,18 +259,21 @@ Recommendation: Use a smaller value than 10 while developing the program.
 
 Notice: You are not allowed to use arrays or any other data structure for storing all the integers.
 
-7. [Exercise 7 (VG-exercise)]()
+7. [Exercise 7 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/CountDigits.java)
 
 Write a program CountDigits.java that for an arbitrary positive integer N (read from the keyboard) prints the number of zeros, odd digits, and even digits. An example of an execution:
 
 > Provide a positive integer: 6789500
+> 
 > Zeros: 2
+> 
 > Odd: 3
+> 
 > Even: 2
 
 Notice: We consider 0 to be neither odd nor even.
 
-8. [Exercise 8 (VG-exercise)]()
+8. [Exercise 8 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/BirthdayCandles.java)
 
 Write a program BirthdayCandles that computes how many boxes of candles a person needs to buy each year for his birthday cake. You can assume that the person reaches an age of 100, the number of candles used each year is the same as the age, that you save non-used candles from one year to another, and that each each box contains 24 candles. Also, at the end, we want you to print the total number of boxes one has to buy, and how many candles that are available after having celebrated the 100th birtday. An example of an execution:
 
@@ -303,7 +306,7 @@ Write a program BirthdayCandles that computes how many boxes of candles a person
 > 
 Notice: In our example we only have a print-out of those birthdays where you must buy boxes. In the non-printed years (e.g. 2-6 and 8-9) you can handle the birthdays without having to buy any more candles.
 
-9. [Exercise 9 (VG-exercise)]()
+9. [Exercise 9 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Palindrome.java)
 Write a program Palindrome.java, testing if a line of text (read from the keyboard) is a palindrome. A palindrome is a text consisting of the same sequence of characters read backwards, as if read from the front. Ignore all characters that are not letters, and consider an upper case letter to be equal to the corresponding lower case letter. Examples of palindromes:
 
 > "Anna"  "x"  "Ff"   "A1 n2%}=3N{[a]"  "Was it a rat I saw?”
@@ -312,7 +315,7 @@ Hint: The two static methods Character.isLetter(char c) and Character.toLowerCas
 
 ### Lecture 5 - Arrays and ArrayList
 
-10. [Exercise 10]()
+10. [Exercise 10](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Reverse.java)
 
 Complete the program Reverse.java below such that:
 It first prints the content of the array text.
@@ -337,7 +340,7 @@ Then print the array content one more time.
 
 Notice: You should not only print them backwards. You should also swap places of the elements in the array.
 
-11. [Exercise 11]()
+11. [Exercise 11](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/ReverseOrder.java)
 
 Create a program ReverseOrder.java that reads an arbitrary number of positive integers from the keyboard and then prints them in reverse order. The reading stops when the user inputs a negative number. An example of an execution:
 Enter positive integers. End by giving a negative integer.
@@ -359,7 +362,7 @@ Enter positive integers. End by giving a negative integer.
 
 Note: The user is not supposed to give the number of integers to enter.
 
-12. [Exercise 12]()
+12. [Exercise 12](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/FrequencyTable.java)
 
 Write a program FrequencyTable.java that simulates that you are rolling a dice 6000 times. At the same time, keep track of the number of times you get the result 1, 2, .... (Use an array to save the numbers.) After the simulation, present the frequencies for the different numbers. An example of an execution:
 
@@ -378,7 +381,7 @@ Write a program FrequencyTable.java that simulates that you are rolling a dice 6
 > 6: 958
 > 
 
-13. [Exercise 13 (VG-exercise)]()
+13. [Exercise 13 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/SalaryRevision.java)
 
 When the union is reporting about the latest salary negotiations they are presenting the average salary, the median salary, and the salary gap for the workers that they represent. Write a program SalaryRevision.java that reads an arbitrary number of salaries (integers) and then reports the median and average salaries, and the salary gap. All of them should be integers (correctly rounded off).
 By salary gap we mean the difference between the highest and lowest saleries. The median salary is the middle salary (or average of the two middle salaries) when all saleries have been sorted. The easiest way to sort an ArrayList is to use the static sort method in class java.util.Collections.

@@ -232,20 +232,21 @@ After 10 guesses, the program ends with a proper comment.
 Write a program Triangle.java reading a positive odd integer N from the keyboard, and then prints two triangles. First a right-angled triangle, then an isosceles triangle. An example of an execution:
 
 > Provide an odd positive integer: 7  
-> Right-Angled Triangle:   
->       *  
->      **  
->     ***  
->    ****  
->   *****  
->  ******  
-> *******  
 > 
-> Isosceles Triangle:
->    *
->   ***
->  *****
-> *******
+> Right-Angled Triangle:   
+       *  
+      **  
+     ***  
+    ****  
+   *****  
+  ******  
+ *******  
+ 
+> Isosceles Triangle:   
+    *   
+   ***   
+  *****   
+ *******   
 
 The program should end with an error message if the input N is not an odd postive integer.
 

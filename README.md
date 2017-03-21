@@ -1,6 +1,6 @@
 # 1DV506, Problem Solving and Programming, Autumn 2016
 ## [Assignment 1: Getting Started](http://homepage.lnu.se/staff/jlnmsi/java1/lab1eng.html)
-Problems?
+#### Problems?
 
 Do not hesitate to ask your teaching assistant at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
 ### Exercises
@@ -167,14 +167,16 @@ Write a program WindChill.java that asks the user for a temperature (°C) and th
 ### Submission
 *Only exercises 5-16 should be handed in. (Notice that the VG exercises 11 and 16 are not mandatory.) We are only interested in your .java files. Hence, zip the directory named YourLnuUserName_assign1 (inside directory named src) and submit it using the Moodle submission system.*
 
+*** 
+
 ## [Assignment 2](http://homepage.lnu.se/staff/jlnmsi/java1/lab2eng.html)
-### Problems?
+#### Problems?
 
 Do not hesitate to ask your teaching assistant at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
-### Prepare Eclipse for Assignment 2
+#### Prepare Eclipse for Assignment 2
 
 Create a new package with the name YourLnuUserName_assign2 inside the Java project 1DV506 and save all program files for this assignment inside that package.
-### VG Exercises
+#### VG Exercises
 
 Exercises 7-9 and 13 are VG tasks that is only needed to do if you aspire for a higher grade (A or B).
 ### Lecture 4 - Control Statements
@@ -232,13 +234,13 @@ Write a program Triangle.java reading a positive odd integer N from the keyboard
 > Provide an odd positive integer: 7
 > 
 > Right-Angled Triangle:
->       *
->      **
->     ***
->    ****
->   *****
->  ******
-> *******
+> '      *'
+> '     **'
+> '    ***'
+> '   ****'
+> '  *****'
+> ' ******'
+> '*******'
 > 
 > Isosceles Triangle:
 >    *
@@ -413,5 +415,8 @@ Two different executions might look like this:
 ### Submission
 
 *All exercises should be handed in and we are only interested in your .java files. (Notice that the VG exercises 7, 8, 9, and 13 are not mandatory.) Hence, zip the directory named YourLnuUserName_assign2 (inside directory named src) and submit it using the Moodle submission system.*
+
+*** 
+
 ## Assignment 3: Methods and Classes
 ## Assignment 4: Exceptions, IO, and Interfaces

@@ -231,16 +231,15 @@ After 10 guesses, the program ends with a proper comment.
 
 Write a program Triangle.java reading a positive odd integer N from the keyboard, and then prints two triangles. First a right-angled triangle, then an isosceles triangle. An example of an execution:
 
-> Provide an odd positive integer: 7
-> 
-> Right-Angled Triangle:
-> '      *'
-> '     **'
-> '    ***'
-> '   ****'
-> '  *****'
-> ' ******'
-> '*******'
+> Provide an odd positive integer: 7  
+> Right-Angled Triangle:   
+>       *  
+>      **  
+>     ***  
+>    ****  
+>   *****  
+>  ******  
+> *******  
 > 
 > Isosceles Triangle:
 >    *
@@ -291,9 +290,9 @@ Write a program BirthdayCandles that computes how many boxes of candles a person
 > Before birthday 12, buy 1 box(es)
 > 
 > Before birthday 14, buy 1 box(es)
-> 
+>    
 > ...
-> 
+>   
 > Before birthday 95, buy 3 box(es)
 > 
 > Before birthday 96, buy 4 box(es)
@@ -360,8 +359,8 @@ Enter positive integers. End by giving a negative integer.
 > Integer 4: 20
 > 
 > Integer 5: -7
-> 
-> 
+>    
+>    
 > Number of positive integers: 4
 > 
 > In reverse order: 20, 15, 10, 5

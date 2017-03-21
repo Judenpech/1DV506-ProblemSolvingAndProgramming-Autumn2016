@@ -307,6 +307,7 @@ Write a program BirthdayCandles that computes how many boxes of candles a person
 Notice: In our example we only have a print-out of those birthdays where you must buy boxes. In the non-printed years (e.g. 2-6 and 8-9) you can handle the birthdays without having to buy any more candles.
 
 9. [Exercise 9 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Palindrome.java)
+
 Write a program Palindrome.java, testing if a line of text (read from the keyboard) is a palindrome. A palindrome is a text consisting of the same sequence of characters read backwards, as if read from the front. Ignore all characters that are not letters, and consider an upper case letter to be equal to the corresponding lower case letter. Examples of palindromes:
 
 > "Anna"  "x"  "Ff"   "A1 n2%}=3N{[a]"  "Was it a rat I saw?”

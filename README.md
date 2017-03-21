@@ -168,13 +168,13 @@ Write a program WindChill.java that asks the user for a temperature (°C) and th
 *Only exercises 5-16 should be handed in. (Notice that the VG exercises 11 and 16 are not mandatory.) We are only interested in your .java files. Hence, zip the directory named YourLnuUserName_assign1 (inside directory named src) and submit it using the Moodle submission system.*
 
 ## [Assignment 2](http://homepage.lnu.se/staff/jlnmsi/java1/lab2eng.html)
-Problems?
+### Problems?
 
 Do not hesitate to ask your teaching assistant at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
-Prepare Eclipse for Assignment 2
+### Prepare Eclipse for Assignment 2
 
 Create a new package with the name YourLnuUserName_assign2 inside the Java project 1DV506 and save all program files for this assignment inside that package.
-VG Exercises
+### VG Exercises
 
 Exercises 7-9 and 13 are VG tasks that is only needed to do if you aspire for a higher grade (A or B).
 ### Lecture 4 - Control Statements
@@ -191,6 +191,7 @@ Write a program CountA.java that reads a string from the keyboard and then print
 2. [Exercise 2](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Backwards.java) 
 
 Write a program Backwards.java that reads an arbitrary string from the keyboard and then prints it backwards. An example of an execution:
+
 >Provide a line of text: Anakin Skywalker
 >
 >Backwards: reklawykS nikanA
@@ -200,6 +201,7 @@ Notice: You are supposed to use control statements to iterate over the input tex
 3. [Exercise 3](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/LargestK.java) 
 
 Write a program LargestK.java, which for any given positive integer N (read from the keyboard) computes the largest integer K such that 0+2+4+6+8+...+K < N. An example of an execution:
+
 > Give a positive integer: 25
 > 
 > The largest K such that 0+2+4+6+...+K < 25 => K=8
@@ -207,6 +209,7 @@ Write a program LargestK.java, which for any given positive integer N (read from
 4. [Exercise 4](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/HighLow.java)
 
 Write a program HighLow.java, implementing the game High and Low. The computer chooses a random integer between 1 and 100 and lets the user guess the value. After each guess, the user is given a clue of the type “higher” or “lower”. An example of an execution:
+
 > Guess 1: 67
 > 
 >   Clue: higher
@@ -255,9 +258,9 @@ Write a program SecondLargest that reads 10 integers from the keyboard and then 
 
 Try to design the program such that changing the number of integers to be read (10) is easy.
 
-Recommendation: Use a smaller value than 10 while developing the program.
+**Recommendation:** Use a smaller value than 10 while developing the program.
 
-Notice: You are not allowed to use arrays or any other data structure for storing all the integers.
+**Notice:** You are not allowed to use arrays or any other data structure for storing all the integers.
 
 7. [Exercise 7 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/CountDigits.java)
 
@@ -278,7 +281,7 @@ Notice: We consider 0 to be neither odd nor even.
 Write a program BirthdayCandles that computes how many boxes of candles a person needs to buy each year for his birthday cake. You can assume that the person reaches an age of 100, the number of candles used each year is the same as the age, that you save non-used candles from one year to another, and that each each box contains 24 candles. Also, at the end, we want you to print the total number of boxes one has to buy, and how many candles that are available after having celebrated the 100th birtday. An example of an execution:
 
 > Before birthday 1, buy 1 box(es)
-
+> 
 > Before birthday 7, buy 1 box(es)
 > 
 > Before birthday 10, buy 1 box(es)
@@ -300,10 +303,10 @@ Write a program BirthdayCandles that computes how many boxes of candles a person
 > Before birthday 99, buy 4 box(es)
 > 
 > Before birthday 100, buy 4 box(es)
-> 
+> <br>
 > 
 > Total number of boxes: 211, Remaining candles: 14
-> 
+
 Notice: In our example we only have a print-out of those birthdays where you must buy boxes. In the non-printed years (e.g. 2-6 and 8-9) you can handle the birthdays without having to buy any more candles.
 
 9. [Exercise 9 (VG-exercise)](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Palindrome.java)

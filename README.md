@@ -419,12 +419,15 @@ Two different executions might look like this:
 *** 
 
 ## Assignment 3: Methods and Classes
-####Problems?
+
+#### Problems?
 Do not hesitate to ask your teaching assistants at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
-####Prepare Eclipse for Assignment 3
+
+#### Prepare Eclipse for Assignment 3
 
 Create a new *package* with the name YourLnuUserName_assign3 inside the Java project 1DV506 and save all program files for this assignment inside that package.
-###Lecture 6 - Methods
+
+### Lecture 6 - Methods
 
 In exercises 1 and 2 below you are supposed to create a number of static methods. They should all be created inside the same class that contains the main method. The main method should work as test program that demonstrates how the different methods in your class can be used.
 
@@ -573,7 +576,7 @@ The class Point should of course be able to handle other points with different (
 - Method move moves the point certain steps in x- and y-direction.
 - Method moveToXY provide a new set of coordinates.
 
-###Lecture 8 - More Classes
+### Lecture 8 - More Classes
 
 This section contains a number of exercises where you are supposed to create you own classes. For each task, we expect a Main class, showing how all methods in the class or classes work. For example, for the class Fraction.java there should be a class FractionMain.java showing how all methods of Fraction.java can be used.
 All classes are supposed to be commented and follow principles such as encapsulation.
@@ -608,7 +611,10 @@ Write a program Play123Main that plays the 1-2-3 game 10000 times and then compu
 
 
 
-###Submission  
+### Submission  
 
 *All exercises should be handed in and we are only interested in your .java files. (Notice that the VG exercises 2.4, and 9 are not mandatory.) Hence, zip the directory named YourLnuUserName_assign3 (inside directory named src) and submit it using the Moodle submission system.*
+
+***
+
 ## Assignment 4: Exceptions, IO, and Interfaces

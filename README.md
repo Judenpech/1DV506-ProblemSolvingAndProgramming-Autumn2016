@@ -110,7 +110,7 @@ Write a program Change.java that computes the change a customer should receive w
 >
 >    1kr coins: 3
 
-#### Lecture 3 - Using Library Classes
+#### [Lecture 3 - Using Library Classes](http://homepage.lnu.se/staff/jlnmsi/java1/lab3eng.html)
 12. [Fahrenheit to Celsius](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Convert.java)
 
 Write a program Convert.java, which reads a temperature in Fahrenheit and then converts it to Celsius using the formula:

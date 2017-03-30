@@ -431,7 +431,7 @@ Create a new *package* with the name YourLnuUserName_assign3 inside the Java pro
 
 In exercises 1 and 2 below you are supposed to create a number of static methods. They should all be created inside the same class that contains the main method. The main method should work as test program that demonstrates how the different methods in your class can be used.
 
-1. [Exercise 1]()
+1. [Exercise 1](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Arrays.java)
 
 Create a class Arrays.java that apart from the main method also contains the following static methods:
 
@@ -450,7 +450,7 @@ Create a class Arrays.java that apart from the main method also contains the fol
 
 **Notice:** You are supposed to implement all these methods from scratch without any use of the array related methods in the Java library.
 
-2. [Exercise 2]()
+2. [Exercise 2](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/SweID.java)
 
 Create a class SweID.java that apart from the main method also contains a number of static methods related to the Swedish identity number in the form YYMMDD-NNNN. Information about the structure of Swedish identity numbers can be found at Wikipedia ([Wikipedia: Personal identity number (Sweden)](https://en.wikipedia.org/wiki/Personal_identity_number_(Sweden))).  
 We expect you to consider each ID number as a single string of type "YYMMDD-NNNN". The class should contain the following static methods:
@@ -474,9 +474,9 @@ Examples:
 
 In the exercises below you are supposed to create your own classes. We also want that you, for each class (e.g. MultiDisplay), to create a test program (e.g. MultiDisplayMain) containing a main method that demonstrates how the different methods in your class can be used.
 
-3. [Exercise 3]()
+3. Exercise 3 ([MultiDisplay.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/MultiDisplay.java) [MultiDisplayMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/MultiDisplayMain.java))
 
-Create a class MultiDisplay that when executed using this code:
+Create a class MultiDispla that when executed using this code:
 
     MultiDisplay md = new MultiDisplay(); 	
     
@@ -497,7 +497,7 @@ results in the following console print-out:
 
 The class MultiDisplay should of course be able to handle other messages and other numbers of display counts.
 
-4. [Exercise 4]()
+4. Exercise 4([AlarmClock.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/AlarmClock.java) [AlarmMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/AlarmMain.java))
 
 Download and install the class [AlarmClock](http://homepage.lnu.se/staff/jlnmsi/java1/AlarmClock.zip). Then write a program AlarmMain that uses AlarmClock to:
 1. Set clock time to 23:48
@@ -539,7 +539,7 @@ results in the following console print-out:
 
 The class TextAnalyzer should of course be able to handle other texts in a correct way. The methods containsChar and containsString should of course also give a correct result (true/false) for other characters and strings.
 
-6. [Exercise 6]()
+6. Exercise 6([TextAnalyzer.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzer.java) [TextAnalyzerMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzerMain.java))
 
 Create a class Point that when executed using this code:
 
@@ -581,7 +581,7 @@ The class Point should of course be able to handle other points with different (
 This section contains a number of exercises where you are supposed to create you own classes. For each task, we expect a Main class, showing how all methods in the class or classes work. For example, for the class Fraction.java there should be a class FractionMain.java showing how all methods of Fraction.java can be used.
 All classes are supposed to be commented and follow principles such as encapsulation.
 
-7. [Exercise 7]()
+7. Exercise 7([Fraction.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Fraction.java) [FractionMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/FractionMain.java))
 
 Create a class Fraction.java, representing a fractional number of the form N/D, where N (the numerator) and D (the denominator) both are integers. If the denominator is equal to zero, an error message should be printed. The class should include the following members:
 1. A constructor, creating and initializing a new fractional number.
@@ -595,7 +595,7 @@ Feel free to add more methods, if you think anything is missing. Suitable argume
 
 **Extra, voluntary work if you are interested in mathematics:** Make sure that the fractional number is in the most simplified form possible. For example, the fractional numbers 2/4 and 35/50 should internally be represented as 1/2 and 7/10. This means that the internal representation always should be the two smallest integers N and D corresponding to the given fractional number. Useful information can be found at Wikipedia: [Euclidean algorithm](http://en.wikipedia.org/wiki/Euclidean_algorithm).
 
-8. [Exercise 8]()
+8. Exercise 8([Card.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Card.java) [PlayCardsMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/PlayCardsMain.java))
 
 Create a class Card, representing a playing card in an ordinary card deck with 52 cards. A card has a suite (4 different) and a rank (13 different). Write a class Deck initially containing 52 different objects of the class Card. The class Deck should contain methods for shuffling the deck, deal a card and telling how many cards are still in the deck. Note that it should only be possible to shuffle a deck if it contains 52 cards. (Information at Wikipedia about [card decks](http://en.wikipedia.org/wiki/Card_deck) and [card games](http://en.wikipedia.org/wiki/Card_game).)  
 
@@ -603,7 +603,7 @@ Also write a program PlayCardsMain, creating a card deck and dealing some cards,
 
 **Hint:** Use enumeration types.
 
-9. [Exercise 9 (VG-exercise)]()
+9. Exercise 9 (VG-exercise)([Deck.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Deck.java) [Play123Main.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Play123Main.java))
 
 In this exercise you should use the Deck class from the previous exercise. In the patience (single player card game) 1-2-3 you take one card at a time from the deck at the same time as you are counting 1,2,3,1,2,3,1,2,3 etc. You lose the game as soon as you get an Ace when counting "one", a 2 card when counting "two", or a 3 card when counting "three". The chances to win, to make it through the whole deck without losing, are quite small. But how small?
 

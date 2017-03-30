@@ -508,7 +508,7 @@ Download and install the class [AlarmClock](http://homepage.lnu.se/staff/jlnmsi/
 
 **Notice:** You are not allowed to make any changes in the AlarmClock class except maybe to change the package name.
 
-5. [Exercise 5]()
+5. Exercise 5([TextAnalyzer.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzer.java) [TextAnalyzerMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzerMain.java))
 
 Create a class TextAnalyzer that when executed using this code:
 
@@ -539,7 +539,7 @@ results in the following console print-out:
 
 The class TextAnalyzer should of course be able to handle other texts in a correct way. The methods containsChar and containsString should of course also give a correct result (true/false) for other characters and strings.
 
-6. Exercise 6([TextAnalyzer.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzer.java) [TextAnalyzerMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/TextAnalyzerMain.java))
+6. Exercise 6([Point.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/Point.java) [PointMain.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/PointMain.java))
 
 Create a class Point that when executed using this code:
 

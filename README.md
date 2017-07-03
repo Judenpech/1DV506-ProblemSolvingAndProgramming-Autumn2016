@@ -619,15 +619,15 @@ Write a program Play123Main that plays the 1-2-3 game 10000 times and then compu
 
 ## Assignment 4: Exceptions, IO, and Interfaces
 
-####Problems?
+#### Problems?
 Do not hesitate to ask your teaching assistants at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
 
-####Prepare Eclipse for Assignment 4
+#### Prepare Eclipse for Assignment 4
 
-Create a new package with the name YourLnuUserName_assign4 inside the Java project 1DV506 and save all program files for this assignment inside that package.
-###Lecture 9 - IO and Exceptions
+Create a new package with the name YourLnuUserName_assign4 inside the Java project 1DV506 and save all program files for this assignment inside that package.  
+### Lecture 9 - IO and Exceptions
 
-All exceptions related to exercises 1 and 2 should be handled within the programs. Also, exercises 1 and 2 can be handled by a single class respectively. Hence, there is no need for any additional classes apart from the one containing the main method. However, feel free to divide your programs into a number of methods.
+All exceptions related to exercises 1 and 2 should be handled within the programs. Also, exercises 1 and 2 can be handled by a single class respectively. Hence, there is no need for any additional classes apart from the one containing the main method. However, feel free to divide your programs into a number of methods.   
 1. [Exercise 1]()
 Create a program Histogram.java, reading any number of integers from a file and then printing a histogram bar-chart for all integers between 1 and 100. Note: not all integers in the file are neccesarily in the interval [1-100]. An example of an execution:
 
@@ -647,7 +647,9 @@ Create a program Histogram.java, reading any number of integers from a file and 
 >       91 - 100 | ***
 
        
-**Note 1**: You will have to create your own data file. We expect it to be an ordinary text file with one integer on each row. **Note 2**: The absolute path to the data file should be provided as an argument to the main method.   
+**Note 1**: You will have to create your own data file. We expect it to be an ordinary text file with one integer on each row. 
+**Note 2**: The absolute path to the data file should be provided as an argument to the main method.     
+
 2. [Exercise 2]()
 Write a program CountChar.java, counting characters of different types in a text read from a file. Give the number of characters of the following types:
 - Upper case letters
@@ -663,7 +665,7 @@ An execution with the file HistoryOfProgramming as input should give the followi
 >     Number of others: 152
 
 If your result does not agree completely with the example above, you have to add a written explanation why you think this happens, to your submission.
-###Lecture 10 - Static Members and Interfaces
+###Lecture 10 - Static Members and Interfaces  
 
 3. [Exercise 3]()
 Start by creating a new sub package named stack inside your package YourLnuUserName_assign4 and save all .java files related to this exercise inside this package.
@@ -681,6 +683,7 @@ A stack is a LiFo (Last-in, first-out) data structure with three basic operation
 >     }
 
 The iterator traverses all elements currently in the stack, starting with the top element. Illegal operations on an empty stack (e.g., pop() and peek()) should generate an exception. You should also present a test program StackMain.java that demonstrates how each method can be used. Notice: You are not allowed to use any of the data structures in the Java library. However, you can use arrays.  
+
 4. [Exercise 4]()
 Start by creating a new subpackage named sort_cities inside your package YourLnuUserName_assign4 and save all .java files related to this exercise inside this package.
 Implement a program SortCities that reads an arbitrary number of city names and their zip codes from a text file. You can assume one city in each line and that each city name (String) and zip code (integer) is separated by a semi-colon(;). Create a class City that represents a city and create a city object for each city you read from the file. The City class should also implement the interface Comparable. Once you have read (and constructed) one City object for each line in the file you should print the cities in a sorted order based on their zip codes. An execution might look like this:
@@ -696,9 +699,10 @@ Implement a program SortCities that reads an arbitrary number of city names and 
 >     90325 Umeå
 >     96133 Boden
 
-###General Java
+### General Java
 
 In the following exercises you should create a number of classes to solve a problem.
+
 5. [Exercise 5 (The Drunken Walker)]()
 Create a class RandomWalk.java, simulating a random walk. A random walk is basically a sequence of steps in some enclosed plane, where the direction of each step is random. The walk terminates when a maximal number of steps have been taken or when a step goes outside the given boundary of the plane.
 For this task, assume a plane given by a grid, with the point (0, 0) at the center. The size of the plane is given by an integer; if the given integer is k, then the values of the x and y coordinates can vary from -k to k. Each step will be one unit up, one unit down, one unit to the right or one unit to the left (no diagonal movements).
@@ -710,7 +714,7 @@ The class RandomWalk will have the following instance data :
 - The maximum number of steps in a walk
 - The number of steps taken so far in the walk
 - The size of the plane (according to the description above)
-####Other members  
+#### Other members  
 - RandomWalk(int max, int size): the maximum number of steps is max and size is the size of the plane. The start position is set to (0, 0). 
 - String toString(): returns a string containing the number of steps taken so far and the current position.
 - void takeStep(): simulates taking a single step. Generate a random number, taking on four different values, and let them correspond to a movement up, down, to the right and to the left, respectively. The method should also increase the number of steps taken.
@@ -737,3 +741,4 @@ Newspapers exchange news by using news agencies (such as Reuters and ITAR- TASS)
 ###Submission
 
 *All exercises should be handed in and we are only interested in your .java files. (Notice that the VG exercise 6 is not mandatory.) Hence, zip the directory named YourLnuUserName_assign4 (inside directory named src) and submit it using the Moodle submission system.*
+***

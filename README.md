@@ -658,7 +658,8 @@ Write a program CountChar.java, counting characters of different types in a text
 - Lower case letters
 - "Whitespace" (i.e. space, tab, return)
 - Other characters
-The path to the text file to read can be coded into the program. (We will test with some other file.) An example of a text file is [HistoryOfProgramming](http://homepage.lnu.se/staff/jlnmsi/java1/HistoryOfProgramming.txt). It is a part of an article from Wikipedia about the history of programming. However, we strongly recommend you to start testing your program with a smaller file.
+The path to the text file to read can be coded into the program. (We will test with some other file.) An example of a text file is [HistoryOfProgramming](http://homepage.lnu.se/staff/jlnmsi/java1/HistoryOfProgramming.txt). It is a part of an article from Wikipedia about the history of programming. However, we strongly recommend you to start testing your program with a smaller file.   
+
 An execution with the file HistoryOfProgramming as input should give the following result:
 
 >     Number of upper case letters: 86
@@ -729,7 +730,7 @@ The class RandomWalk will have the following instance data :
 - boolean moreSteps(): returns true if the number of steps taken is less than the maximal number of steps, otherwise false is returned.
 - boolean inBounds(): returns true if the current position is inside the boundary of the plane, otherwise false is returned.
 - void walk(): simulates a random walk, i.e. steps are taken until the maximum number of steps has been taken or until a step goes outside the boundary of the plane.  
-####Simulation  
+#### Simulation  
 Create another class DrunkenWalk, simulating walks of drunken people on a platform in a lake. The program should read the boundary, the maximum number of steps, and the number of drunks to simulate. One drunk at a time should be put on the platform and perform its walk. Your program should count how many drunks fall into the water. Test your program for some different values of size and number of steps. Example of an execution:
 
    
@@ -747,7 +748,7 @@ Newspapers exchange news by using news agencies (such as Reuters and ITAR- TASS)
 
 
 
-###Submission
+### Submission
 
 *All exercises should be handed in and we are only interested in your .java files. (Notice that the VG exercise 6 is not mandatory.) Hence, zip the directory named YourLnuUserName_assign4 (inside directory named src) and submit it using the Moodle submission system.*
 ***

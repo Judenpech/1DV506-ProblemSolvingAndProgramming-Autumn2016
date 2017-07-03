@@ -180,7 +180,9 @@ Create a new package with the name YourLnuUserName_assign2 inside the Java proje
 
 Exercises 7-9 and 13 are VG tasks that is only needed to do if you aspire for a higher grade (A or B).
 ### Lecture 4 - Control Statements
+
 The ability to combine different control statements to solve a problem is very important. Therefore, there is quite a large number of (short) tasks on this topic.
+
 1. [Exercise 1](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/CountA.java)
 
 Write a program CountA.java that reads a string from the keyboard and then prints how many 'a' and 'A' the string contains. An example of what an execution might look like:
@@ -418,7 +420,7 @@ Two different executions might look like this:
 
 *** 
 
-## Assignment 3: Methods and Classes
+## [Assignment 3: Methods and Classes](http://homepage.lnu.se/staff/jlnmsi/java1/lab3eng.html)
 
 #### Problems?
 Do not hesitate to ask your teaching assistants at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.
@@ -617,7 +619,7 @@ Write a program Play123Main that plays the 1-2-3 game 10000 times and then compu
 
 ***
 
-## Assignment 4: Exceptions, IO, and Interfaces
+## [Assignment 4: Exceptions, IO, and Interfaces](http://homepage.lnu.se/staff/jlnmsi/java1/lab4eng.html)
 
 #### Problems?
 Do not hesitate to ask your teaching assistants at the practical meetings (or Jonas at the lectures) if you have any problems. You can also post a question in the assignment forum in Moodle.

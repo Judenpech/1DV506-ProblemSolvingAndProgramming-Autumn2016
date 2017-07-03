@@ -630,7 +630,7 @@ Create a new package with the name YourLnuUserName_assign4 inside the Java proje
 ### Lecture 9 - IO and Exceptions
 
 All exceptions related to exercises 1 and 2 should be handled within the programs. Also, exercises 1 and 2 can be handled by a single class respectively. Hence, there is no need for any additional classes apart from the one containing the main method. However, feel free to divide your programs into a number of methods.   
-1. Exercise 1[Histogram.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/Histogram.java)
+1. Exercise 1([Histogram.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/Histogram.java))
 
 Create a program Histogram.java, reading any number of integers from a file and then printing a histogram bar-chart for all integers between 1 and 100. Note: not all integers in the file are neccesarily in the interval [1-100]. An example of an execution:
 
@@ -653,7 +653,7 @@ Create a program Histogram.java, reading any number of integers from a file and 
 **Note 1**: You will have to create your own data file. We expect it to be an ordinary text file with one integer on each row. 
 **Note 2**: The absolute path to the data file should be provided as an argument to the main method.     
 
-2. Exercise 2[CountChar.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/CountChar.java)
+2. Exercise 2([CountChar.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/CountChar.java))
 
 Write a program CountChar.java, counting characters of different types in a text read from a file. Give the number of characters of the following types:
 - Upper case letters
@@ -673,7 +673,7 @@ If your result does not agree completely with the example above, you have to add
 
 ### Lecture 10 - Static Members and Interfaces  
 
-3. Exercise 3[stack](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/stack)
+3. Exercise 3([stack](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/stack))
 
 Start by creating a new sub package named stack inside your package YourLnuUserName_assign4 and save all .java files related to this exercise inside this package.
 A stack is a LiFo (Last-in, first-out) data structure with three basic operations: push, pop and peek. push is putting an element on the top of the stack, pop removes (and returns) the top element, and peek returns (without removing) the top element. Think of a stack as a pile of plates that can be found in certain restaurants. You can only add and remove the top-most plate. You can not remove any plates in the middle of the pile (without first removing all plates above it). Your task is to implement the following stack interface:
@@ -691,7 +691,7 @@ A stack is a LiFo (Last-in, first-out) data structure with three basic operation
 
 The iterator traverses all elements currently in the stack, starting with the top element. Illegal operations on an empty stack (e.g., pop() and peek()) should generate an exception. You should also present a test program StackMain.java that demonstrates how each method can be used. Notice: You are not allowed to use any of the data structures in the Java library. However, you can use arrays.  
 
-4. Exercise 4[sort_cities](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/sort_cities)
+4. Exercise 4([sort_cities](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/sort_cities))
 
 Start by creating a new subpackage named sort_cities inside your package YourLnuUserName_assign4 and save all .java files related to this exercise inside this package.
 Implement a program SortCities that reads an arbitrary number of city names and their zip codes from a text file. You can assume one city in each line and that each city name (String) and zip code (integer) is separated by a semi-colon(;). Create a class City that represents a city and create a city object for each city you read from the file. The City class should also implement the interface Comparable. Once you have read (and constructed) one City object for each line in the file you should print the cities in a sorted order based on their zip codes. An execution might look like this:
@@ -711,7 +711,7 @@ Implement a program SortCities that reads an arbitrary number of city names and 
 
 In the following exercises you should create a number of classes to solve a problem.
 
-5. Exercise 5 (The Drunken Walker)[DrunkenWalk.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/DrunkenWalk.java)[RandomWalk.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/RandomWalk.java)
+5. Exercise 5 (The Drunken Walker)([DrunkenWalk.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/DrunkenWalk.java) [RandomWalk.java](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/blob/master/jl223vy_assign4/RandomWalk.java))
 
 Create a class RandomWalk.java, simulating a random walk. A random walk is basically a sequence of steps in some enclosed plane, where the direction of each step is random. The walk terminates when a maximal number of steps have been taken or when a step goes outside the given boundary of the plane.
 For this task, assume a plane given by a grid, with the point (0, 0) at the center. The size of the plane is given by an integer; if the given integer is k, then the values of the x and y coordinates can vary from -k to k. Each step will be one unit up, one unit down, one unit to the right or one unit to the left (no diagonal movements).
@@ -742,7 +742,7 @@ Create another class DrunkenWalk, simulating walks of drunken people on a platfo
 >        Enter the number of walks: 150
 >        Out of 150 drunk people, 14 (9.34%) fell into the water.
 
-6. Exercise 6 (VG Exercise)[newsagency](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/newsagency) 
+6. Exercise 6 (VG Exercise)([newsagency](https://github.com/jl223vy/1DV506--Problem-Solving-and-Programming--Autumn-2016/tree/master/jl223vy_assign4/newsagency) )
 
 The following exercise description is rather vague, more of a sketchy scenario than a concrete problem specification. Your task is to create the necessary classes to simulate this scenario. All classes should be properly documented and encapsulated. 
 Start by creating a new sub package named newsagency inside your package YourLnuUserName_assign4 and save all .java files related to this exercise inside this package.

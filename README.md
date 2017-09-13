@@ -236,7 +236,8 @@ Write a program Triangle.java reading a positive odd integer N from the keyboard
 > Provide an odd positive integer: 7  
 > 
 > Right-Angled Triangle:   
-```       *  
+```
+       *  
       **  
      ***  
     ****  
@@ -245,10 +246,12 @@ Write a program Triangle.java reading a positive odd integer N from the keyboard
  *******  
 ``` 
 > Isosceles Triangle:   
+```
     *   
    ***   
   *****   
  *******   
+```
 
 The program should end with an error message if the input N is not an odd postive integer.
 

@@ -236,14 +236,14 @@ Write a program Triangle.java reading a positive odd integer N from the keyboard
 > Provide an odd positive integer: 7  
 > 
 > Right-Angled Triangle:   
-       *  
+```       *  
       **  
      ***  
     ****  
    *****  
   ******  
  *******  
- 
+``` 
 > Isosceles Triangle:   
     *   
    ***   

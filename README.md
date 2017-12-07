@@ -1,4 +1,8 @@
 # 1DV506, Problem Solving and Programming, Autumn 2016
+
+Hi!!
+Here are my solutions on Problem Solving And Programming class assignments, if you have any questions, mail me jl223vy@outlook.com 
+
 ## [Assignment 1: Getting Started](http://homepage.lnu.se/staff/jlnmsi/java1/lab1eng.html)
 #### Problems?
 
